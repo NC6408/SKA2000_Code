@@ -273,6 +273,7 @@ static void SKA_SendToPlcThread_Udp()
     }
 
     // 设置地址复用
+    //
     int nOpt = 1;
     if (setsockopt(nServerFd, SOL_SOCKET, SO_REUSEADDR, &nOpt, sizeof(nOpt)))
     {
