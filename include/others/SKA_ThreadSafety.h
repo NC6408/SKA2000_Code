@@ -1,0 +1,9 @@
+#ifndef SKA2000_OHBC_CONTROLLER_SKA_THREADSAFETY_H
+#define SKA2000_OHBC_CONTROLLER_SKA_THREADSAFETY_H
+
+#include <pthread.h>
+
+// PLC数据互斥锁
+extern pthread_mutex_t unPlcDataMutex;
+
+#endif // SKA2000_OHBC_CONTROLLER_SKA_THREADSAFETY_H

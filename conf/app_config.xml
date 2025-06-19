@@ -1,0 +1,21 @@
+<AppConfig>
+    <CommConfig>
+        <!-- 防摇控制器的控制网口IP -->
+        <ASC_ControlNetPortIp>192.168.27.135</ASC_ControlNetPortIp>
+        <!-- 防摇控制器与PLC的通信协议(TCP;UDP;Modbus-TCP) -->
+        <ASC_CommProtocalWithPlc>TCP</ASC_CommProtocalWithPlc>
+        <!-- 防摇控制器的从PLC接收数据的端口 -->
+        <ASC_RecvPortFromPlc>1024</ASC_RecvPortFromPlc>
+        <!-- 防摇控制器的向PLC发送数据的端口 -->
+        <ASC_SendPortToPlc>1025</ASC_SendPortToPlc>
+        <!-- 防摇控制器的调试网口IP -->
+        <ASC_DebugNetPortIp>192.168.29.102</ASC_DebugNetPortIp>
+        <!-- 防摇控制器的调试服务器端口 -->
+        <ASC_DebugServerPort>8000</ASC_DebugServerPort>
+
+        <!-- PLC控制网口IP(仅UDP) -->
+        <PLC_ControlNetPortIp>192.168.28.1</PLC_ControlNetPortIp>
+        <!-- PLC从防摇控制器接收数据的端口(仅UDP) -->
+        <PLC_RecvPortFromAsc>1024</PLC_RecvPortFromAsc>
+    </CommConfig>
+</AppConfig>

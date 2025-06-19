@@ -1,0 +1,3 @@
+/home/sr/~workspace/SKA2000_AI200G_20250317/build/CMakeFiles/SKA2000_AI200G.dir
+/home/sr/~workspace/SKA2000_AI200G_20250317/build/CMakeFiles/edit_cache.dir
+/home/sr/~workspace/SKA2000_AI200G_20250317/build/CMakeFiles/rebuild_cache.dir

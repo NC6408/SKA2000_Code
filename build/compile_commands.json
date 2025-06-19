@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/lib/src/mongoose/mongoose.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/src/mongoose/mongoose.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/lib/src/mongoose/mongoose.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/comm_module/SKA_CommunicationInterface.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/comm_module/SKA_CommunicationInterface.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/comm_module/SKA_CommunicationInterface.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/comm_module/SKA_DebugServerThread.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/comm_module/SKA_DebugServerThread.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/comm_module/SKA_DebugServerThread.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/comm_module/SKA_ReceiveFromPlcThread.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/comm_module/SKA_ReceiveFromPlcThread.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/comm_module/SKA_ReceiveFromPlcThread.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/comm_module/SKA_SendToPlcThread.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/comm_module/SKA_SendToPlcThread.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/comm_module/SKA_SendToPlcThread.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_AntiswayController.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_AntiswayController.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_AntiswayController.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_AssistAntiswayController.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_AssistAntiswayController.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_AssistAntiswayController.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_CannotDriveErrorDetector.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_CannotDriveErrorDetector.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_CannotDriveErrorDetector.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_CircularBuffer.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_CircularBuffer.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_CircularBuffer.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_Constants.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_Constants.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_Constants.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_ControlThread.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_ControlThread.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_ControlThread.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_DoubleSshapedTrace.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_DoubleSshapedTrace.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_DoubleSshapedTrace.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_HoistUnitTracePlanner.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_HoistUnitTracePlanner.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_HoistUnitTracePlanner.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_HoistUnitTrackingController.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_HoistUnitTrackingController.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_HoistUnitTrackingController.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_HorizontalAvoidanceTask.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_HorizontalAvoidanceTask.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_HorizontalAvoidanceTask.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_HorizontalCollisonFreeTracePlanner.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_HorizontalCollisonFreeTracePlanner.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_HorizontalCollisonFreeTracePlanner.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_InertialFilter.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_InertialFilter.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_InertialFilter.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_InputShaper.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_InputShaper.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_InputShaper.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_QuickStopTracePlanner.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_QuickStopTracePlanner.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_QuickStopTracePlanner.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_RateLimiter.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_RateLimiter.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_RateLimiter.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_RiseEdgeDetector.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_RiseEdgeDetector.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_RiseEdgeDetector.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_Saturation.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_Saturation.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_Saturation.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_Timer.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_Timer.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_Timer.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_TraceSegment.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_TraceSegment.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_TraceSegment.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_TravelUnitTracePlanner.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_TravelUnitTracePlanner.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_TravelUnitTracePlanner.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_TravelUnitTrackingController.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_TravelUnitTrackingController.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_TravelUnitTrackingController.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_UnshapedTracePlanner.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_UnshapedTracePlanner.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_UnshapedTracePlanner.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_Utils.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_Utils.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_Utils.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_VerticalAvoidanceTask.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_VerticalAvoidanceTask.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_VerticalAvoidanceTask.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_VerticalCollisionFreeTracePlanner.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_VerticalCollisionFreeTracePlanner.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_VerticalCollisionFreeTracePlanner.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_ZeroManualDetector.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_ZeroManualDetector.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_ZeroManualDetector.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/control_module/SKA_ZeroSpeedDetector.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_ZeroSpeedDetector.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/control_module/SKA_ZeroSpeedDetector.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/main.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/main.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/main.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/others/SKA_Configurer.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/others/SKA_Configurer.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/others/SKA_Configurer.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/others/SKA_Logger.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/others/SKA_Logger.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/others/SKA_Logger.c"
+},
+{
+  "directory": "/home/sr/~workspace/SKA2000_AI200G_20250317/build",
+  "command": "aarch64-linux-gnu-gcc --sysroot=\"~/ubuntu-jammy-arm64\"  -I/home/sr/ubuntu-jammy-arm64/usr/local/include -I/home/sr/ubuntu-jammy-arm64/usr/local/include/libxml2 -I/home/sr/ubuntu-jammy-arm64/usr/local/include/modbus -I/home/sr/ubuntu-jammy-arm64/usr/local/include/cjson -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/lib/include/mongoose\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/comm_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/control_module\" -I\"/home/sr/~workspace/SKA2000_AI200G_20250317/include/others\" -g -std=gnu99 -o CMakeFiles/SKA2000_AI200G.dir/src/others/SKA_ThreadSafety.c.o -c \"/home/sr/~workspace/SKA2000_AI200G_20250317/src/others/SKA_ThreadSafety.c\"",
+  "file": "/home/sr/~workspace/SKA2000_AI200G_20250317/src/others/SKA_ThreadSafety.c"
+}
+]
